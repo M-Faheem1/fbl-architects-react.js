@@ -2,7 +2,6 @@ import React from 'react'
 import CarouselImage1 from '../assets/images/projects-image-3.png'
 import CarouselImage2 from '../assets/images/projects-image-2.png'
 
-
 function BaseCarousel() {
   return (
     <div class="carousel slide our-projects__image-section" data-ride="carousel">
