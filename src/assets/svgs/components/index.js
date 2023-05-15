@@ -1,0 +1,12 @@
+export { default as Instagram } from "./instagram";
+export { default as LinkedIn } from "./linked-in";
+export { default as Twitter } from "./twitter";
+export { default as Vector } from "./vector";
+export { default as Check } from "./check";
+export { default as FacebookSvg } from "./facebook-svg";
+export { default as FblLogo } from "./fbl-logo";
+export { default as FooterLogo } from "./footer-logo";
+export { default as LinkedInProfile } from "./linked-in-profile";
+export { default as LocationSvg } from "./location-svg";
+export { default as RectangleLine } from "./rectangle-line";
+export { default as SidenavbarLogo } from "./sidenavbar-logo";

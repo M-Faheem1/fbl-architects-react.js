@@ -16,7 +16,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "svgs": "npx @svgr/cli -d src/assets/svgs/components src/assets/svgs --filename-case kebab"
   },
   "eslintConfig": {
     "extends": [
